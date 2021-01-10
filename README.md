@@ -19,8 +19,15 @@ Realtek ALC1220P / ALC S1220A
  
  #### HDD
  Samsung SSD 850 Evo
- 
- 
+
+##
+[EFI](https://github.com/roan-droid/hackintosh/tree/main/EFI) for Opencore 0.6.5
+
+## Fast How-to
+Edit config.plist with your serials or use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+Mount you EFI partition, copy EFI folder and enjoy
+Futher information on [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+
 ### To Fix DRM issue use this commands
 
 List of overrides:
